@@ -1,0 +1,27 @@
+:root {
+	--branco-principal:#FFFFFF;
+	--cinza-secundario:#C0C0C0;
+	--botao-azul:#167BF7;
+	--cor-de-fundo:#00030C;
+	--fonte-principal: 'Inter';
+}
+
+body {
+	background-color: var(--cor-de-fundo);
+	color: var(--branco-principal);
+	font-family: var(--);
+}
+
+.principal-bolas {
+	height: 100vh;
+	background-image: url("rickroll-roll.gif");
+}
+
+.bolas {
+	background-color: var(--botao-azul);
+	color: var(--branco-principal);
+}
+
+.bolas-secundarias {
+
+}
